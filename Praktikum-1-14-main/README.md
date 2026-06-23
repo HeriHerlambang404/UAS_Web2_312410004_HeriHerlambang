@@ -2,7 +2,7 @@
 
 Repositori ini berisi kumpulan tugas dan implementasi dari Praktikum Pemrograman Web (Pertemuan 1 hingga 14). Proyek ini dibangun menggunakan framework **CodeIgniter 4 (CI4)** untuk sisi *backend* (termasuk RESTful API) dan **Vue.js** (secara *standalone*) untuk integrasi *frontend*.
 
-## 🚀 Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 * **Backend:** PHP, CodeIgniter 4
 * **Frontend:** HTML, CSS, JavaScript, Vue.js
 * **Database:** MySQL
@@ -10,7 +10,7 @@ Repositori ini berisi kumpulan tugas dan implementasi dari Praktikum Pemrograman
 
 ---
 
-## 📚 Ringkasan Progres Praktikum
+##  Ringkasan Progres Praktikum
 
 Berikut adalah penjelasan tahapan pengembangan sistem dari awal hingga akhir praktikum:
 
